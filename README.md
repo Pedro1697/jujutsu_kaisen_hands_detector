@@ -37,3 +37,11 @@ This project implements a hands gesture detection based in RNN network with a LS
 * OpenCV
 * Numpy
 * Jupyter Notebooks
+
+# Credits
+Inspired by Jujutsu Kaisen anime/manga
+Nicholas Renotte for the project used as state of the art
+
+Developed by Pedro1697
+
+
