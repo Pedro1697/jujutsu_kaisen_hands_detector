@@ -1,5 +1,6 @@
 # Jujutsu Kaisen Hands Detector
 Hands gesture detector in real time using deep learning and computer vision inspired by Jujutsu Kaisen anime
+![Demo](jjk_gif.gif)
 
 ## Overview
 
